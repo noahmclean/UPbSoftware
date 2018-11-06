@@ -5,6 +5,7 @@ This space is meant to be a community-editable compilation of useful codes and s
 ## Table of Contents:
 
 ### <u>Mass Spectrometry:</u>
+
 | Software | Source | Author(s) |
 |----------| :---------:| ----------|
 | PU code for Pb standards | url | Samperton et al. |
@@ -16,6 +17,7 @@ This space is meant to be a community-editable compilation of useful codes and s
 
 
 ### <u>Data Reduction/Uncertainty Propagation:</u>
+
 | Software | Source | Author(s) |
 |----------| :---------:| ----------|
 | Tripoli | [CIRDLES website](http://cirdles.org/projects/tripoli/) | Jim Bowring, Noah McLean |
@@ -25,6 +27,7 @@ This space is meant to be a community-editable compilation of useful codes and s
 
 
 ### <u>Age Interpretation:</u>
+
 | Software | Source | Author(s) |
 |----------| :---------:| ----------|
 | Keller et al., (2018)<br> Eruption age from zircon spectrum | <ul><li>[GitHub Repository](https://github.com/brenhinkeller/Chron.jl)</li><li>[Demo Jupyter Notebook](https://mybinder.org/v2/gh/brenhinkeller/Chron.jl/master?filepath=examples%2Fdemo.ipynb)</li></ul>| Brenhin Keller |

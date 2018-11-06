@@ -30,5 +30,7 @@ This space is meant to be a community-editable compilation of useful codes and s
 
 | Software | Source | Author(s) |
 |----------| :---------:| ----------|
-| Keller et al., (2018)<br> Eruption age from zircon spectrum | <ul><li>[GitHub Repository](https://github.com/brenhinkeller/Chron.jl)</li><li>[Demo Jupyter Notebook](https://mybinder.org/v2/gh/brenhinkeller/Chron.jl/master?filepath=examples%2Fdemo.ipynb)</li></ul>| Brenhin Keller |
+| Keller et al., (2018)<br> Estimate eruption age from mineral age spectrum | [GitHub Repository](https://github.com/brenhinkeller/Chron.jl), [Demo Jupyter Notebook](https://mybinder.org/v2/gh/brenhinkeller/Chron.jl/master?filepath=examples%2Fdemo.ipynb)| Brenhin Keller |
+| Bayesian stratigraphic age model | [GitHub Repository](https://github.com/brenhinkeller/Chron.jl) | Brenhin Keller
+
 

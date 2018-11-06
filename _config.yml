@@ -1,1 +1,4 @@
+title: U-Pb TIMS Software
+description: Compilation of software for U-Pb geochronology
 theme: jekyll-theme-slate
+exclude: LICENSE
